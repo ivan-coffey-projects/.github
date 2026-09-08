@@ -13,11 +13,13 @@ I lead a regulated services business with 63 staff supporting 178 participants, 
 
 ## Published work
 
+### [Sparring Partner](https://github.com/ivan-coffey-projects/sparring-partner)
+
+Self-hosted sales-training simulator for live calls and written channels. Deterministic safeguards control hidden information, patience, engagement and concessions; citation checks reject coaching points that are not supported by both the playbook and transcript. The public release passes 174 tests, lint and a production build.
+
 ### [Qwen3.8-27B-Wildthing](https://huggingface.co/neonoodles/Qwen3.8-27B-Wildthing-ARA-MTP-GGUF)
 
 Customised a 27B model, restored its multi-token prediction head and documented a 200k-context serving configuration. The measured configuration delivered 36% higher decoding throughput at approximately 61k context compared with MTP disabled on the same setup. Internal logic and coding probe scores matched the base model.
-
-More project case studies are being prepared for public release.
 
 ## Working principles
 
