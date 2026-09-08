@@ -21,6 +21,15 @@ Self-hosted sales-training simulator for live calls and written channels. Determ
 
 Customised a 27B model, restored its multi-token prediction head and documented a 200k-context serving configuration. The measured configuration delivered 36% higher decoding throughput at approximately 61k context compared with MTP disabled on the same setup. Internal logic and coding probe scores matched the base model.
 
+### Additional systems
+
+- [Previewer](https://github.com/ivan-coffey-projects/previewer) — human-controlled review workspace with PIN-gated actions, immutable approvals and audit records.
+- [Pidgeonhole](https://github.com/ivan-coffey-projects/pidgeonhole) — multi-role LLM workforce with swappable model bindings and persistent role memory.
+- [Shoulders Like Boulders](https://github.com/ivan-coffey-projects/shoulders-like-boulders) — safe local-model delegation and payload repair tooling for Claude Code.
+- [Coode](https://github.com/ivan-coffey-projects/coode) — self-hosted contextual coding assistant with an editor bridge, side panel and desktop overlay.
+- [Click](https://github.com/ivan-coffey-projects/click) — archived desktop IDE for governed agent workflows with signed briefs, scoped permissions and acceptance checks.
+- [Syx LLM Overlord](https://github.com/ivan-coffey-projects/syx-llm-overlord) — experimental Java/Python controller and dashboard for Songs of Syx.
+
 ## Working principles
 
 - Business value before novelty
