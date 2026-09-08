@@ -2,7 +2,7 @@
 
 Founder-operator building practical AI agents, governed automation and self-hosted AI infrastructure.
 
-I lead a regulated services business with 63 staff supporting 178 participants, with responsibility for P&L, operations, finance, HR and policy. I bring that operating experience to AI: start with a real business problem, build the smallest useful system, keep people in control and measure the result.
+I lead a regulated services business with 63 staff supporting 178 clients, with responsibility for P&L, operations, finance, HR and policy. I bring that operating experience to AI: start with a real business problem, build the smallest useful system, keep people in control and measure the result.
 
 ## What I build
 
