@@ -39,4 +39,4 @@ Customised a 27B model, restored its multi-token prediction head and documented 
 
 Based in Newcastle, NSW, Australia. Open to relocation and ANZ remote opportunities.
 
-[Hugging Face](https://huggingface.co/neonoodles) · [Email](mailto:ivancoffey90@gmail.com)
+[Hugging Face](https://huggingface.co/neonoodles)
