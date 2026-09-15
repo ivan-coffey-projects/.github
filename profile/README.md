@@ -37,6 +37,6 @@ Customised a 27B model, restored its multi-token prediction head and documented 
 - Privacy-conscious local inference where it fits
 - Evidence, testing and honest limits
 
-Based in Newcastle, NSW, Australia. Open to relocation and ANZ remote opportunities.
+Based in Newcastle, NSW, Australia.
 
 [Hugging Face](https://huggingface.co/neonoodles)
